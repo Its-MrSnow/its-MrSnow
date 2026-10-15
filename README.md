@@ -1,68 +1,105 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,0&text=ITZ-VOLD&fontColor=ffffff&fontSize=60&animation=fadeIn" width="100%" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+The+Future;AI+Engineer+in+Progress;Machine+Learning+Explorer;Physics+and+Space+Enthusiast;Never+Stop+Learning" /><br><br>
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+</p>
 
-<img src="https://media1.tenor.com/m/8MjlL6i8KfAAAAAC/anime-night.gif" width="700"/></div>
+<h1 align="center">Hi 👋, Imma Shady</h1>
 
-🧠 About Me
+<h3 align="center">Backend Developer</h3>
 
-Name       : ITZ-VOLD
-Age        : 16
-Mission    : Become the best version of myself
-Interests  : AI • Physics • Mathematics • Space • Technology
-Status     : Learning • Building • Improving
-Dream      : Build something that changes the world
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
 
-«"Everything you see today was once someone's imagination."»
-
-
-
-🌌 Current Focus
-
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Artificial Intelligence Research
-- 🚀 Physics & Space Exploration
-- 💻 Software Engineering
-- 📚 Continuous Self Improvement
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
+</p>
 
 
+##  <h2 align="center">🚀 About Me </h2>
 
-⚔️ Tech Arsenal
+<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,rust,go,java,js,ts,html,css,php,bash,mysql,mongodb,git,linux&theme=dark" /></div>
+**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
 
+I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
 
-🐍 Contribution Snake
+Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
+My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
-🌐 Connect
+<br clear="right"/>
 
-<div align="center"><a href="https://instagram.com/itz-vold">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red"/>
-</a><a href="https://pinterest.com/starvelem">
-<img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=red"/>
-</a><a href="mailto:arshya9019@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a></div>
+ <h2 align="center">🤝 Connect</h2>
 
-<div align="center">⚫ "The future belongs to those who build it." 🔴
+<p align="center">
+  <a href="https://github.com/midnightshady">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaifqureshi3672@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=itz-vold&style=for-the-badge&color=red"/></div> 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itz-vold&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=itz-vold&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itz-vold&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">💻 Tech Stack</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itz-vold&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itz-vold&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">📊 GitHub Stats</h2>
 
+<div align="center">
 
-[![](https://komarev.com/ghpvc/?username=itz-vold&icon=6&color=4)](https://visitcount.itsvg.in)
+<img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+</p>
+
+### 
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
+
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
