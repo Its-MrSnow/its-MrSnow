@@ -33,7 +33,15 @@ My goal is simple: understand technology from the ground up, build meaningful pr
 
 <p align="center">
   <a href="https://github.com/MrSnow">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/its_vold">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:arshya9019@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
   </a>
 </p>
 
